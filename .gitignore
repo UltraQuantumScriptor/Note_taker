@@ -1,2 +1,5 @@
 # ignore note.json
 note.json
+
+# ignore __pyache__ 
+__pycache__
