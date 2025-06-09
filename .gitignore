@@ -2,4 +2,5 @@
 note.json
 
 # ignore __pyache__ 
-__pycache__
+__pycache__/
+*.pyc
