@@ -10,4 +10,4 @@ danger_color = "#f44336"
 
 text_font = ("Cascadia code bold", 14)
 text_color = "#232323"
-text_foreground = "#F8F8F8"
+text_foreground = "#F9F9F9"
